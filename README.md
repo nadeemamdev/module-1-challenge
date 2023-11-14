@@ -18,7 +18,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-[Visit the live site on Github Pages.](https://github.com)
+[Visit the live site on Github Pages.](https://nadeemamdev.github.io/module-1-challenge/)
 
 ## Usage
 
