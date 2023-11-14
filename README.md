@@ -22,15 +22,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-<!-- Add screenshot of finished website -->
+All you need to do is to click on the links to navigate between the various sections.
 
-Provide instructions and examples for use. Include screenshots as needed.
+Here is a screenshot of the live site.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![A screenshot of the live site on Github Pages.](/Assets/live-site-screenshot.png)
 
 ## Credits
 
