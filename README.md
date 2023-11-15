@@ -22,7 +22,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-All you need to do is to click on the links to navigate between the various sections.
+All you need to do is to click on the links in the header/navigation bar to navigate between the various sections.
 
 Here is a screenshot of the live site.
 
@@ -58,6 +58,4 @@ SOFTWARE.
 
 ## Tests
 
-<!-- Notarise Lighthouse and W3C Markup Validator checks here. -->
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Tests completed for accessibility purposes via https://validator.w3.org/#validate_by_upload. All errors have been addressed in the codebase. 
